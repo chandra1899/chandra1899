@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandra kumar</h1>
 <h3 align="center">open source enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="coding" width="400" src="[https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandra1899&label=Profile%20views&color=0e75b6&style=flat" alt="chandra1899" /> </p>
 
